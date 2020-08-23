@@ -7,6 +7,11 @@ body{
     font-size: 50%;
     text-align: center;
 }
+.titleimg{
+  width:55px;
+  height:55px;
+  border-radius: 100%;
+}
 .navbar-brand.navbar-text{
     font-size:30px;
     color:black;
@@ -146,6 +151,10 @@ body{
   }
   .menu{
     word-spacing: 60px;
+  }
+  .titleimg{
+    width:25px;
+    height:25px;
   }
   .ptext{
     
