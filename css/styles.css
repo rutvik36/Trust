@@ -138,10 +138,13 @@ body{
     
 }
 
-@media (max-width:500px) {
+@media (max-width:400px) {
   
   .cont{ 
     top:160%;
+  }
+  .menu{
+    word-spacing: 60px;
   }
 }
   
