@@ -137,7 +137,11 @@ body{
     }
     
 }
-  
-  
 
+@media (max-width:500px) {
+  
+  .cont{ 
+    top:160%;
+  }
+}
   
