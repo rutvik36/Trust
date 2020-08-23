@@ -141,7 +141,7 @@ body{
 @media (max-width:500px) {
   
   .cont{ 
-    top:160%;
+    top:120%;
   }
   .menu{
     word-spacing: 60px;
