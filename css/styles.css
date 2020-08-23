@@ -8,12 +8,12 @@ body{
     text-align: center;
 }
 .titleimg{
-  width:55px;
-  height:55px;
+  width:4vw;
+  height:4vw;
   border-radius: 100%;
 }
 .navbar-brand.navbar-text{
-    font-size:30px;
+    font-size:3vw;
     color:black;
     margin: auto;
   
@@ -143,7 +143,7 @@ body{
 
 @media (max-width:500px) {
   .navbar-brand.navbar-text{
-    font-size:20px;
+    font-size:18px;
   }
   
   .cont{ 
@@ -151,6 +151,11 @@ body{
   }
   .menu{
     word-spacing: 60px;
+  }
+  .titleimg{
+    width:25px;
+    height:25px;
+    border-radius: 100%;
   }
  
   .ptext{
